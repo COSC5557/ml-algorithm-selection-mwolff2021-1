@@ -43,6 +43,14 @@ Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
 
 ## Resources
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.BernoulliRBM.html#sklearn.neural_network.BernoulliRBM
+
+https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html#rbm
+
+https://arxiv.org/pdf/2210.10318.pdf
+
 I discussed the assignments for this semester in general with another student, Russell Todd, but I'm not sure if we talked about this exercise in specific detail. 
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 https://scikit-learn.org/stable/modules/classes.html
