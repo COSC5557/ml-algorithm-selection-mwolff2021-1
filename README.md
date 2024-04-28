@@ -43,15 +43,20 @@ Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
 
 ## Resources
+
+I discussed the assignments for this semester in general with another student, Russell Todd, and looked at his repository for the exercise.
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html
+https://scikit-learn.org/stable/modules/cross_validation.html#multimetric-cross-validation
+https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html#sklearn.model_selection.cross_val_score
+https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+https://towardsdatascience.com/the-complete-guide-to-resampling-methods-and-regularization-in-python-5037f4f8ae23
 https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier
-
 https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.BernoulliRBM.html#sklearn.neural_network.BernoulliRBM
-
 https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html#rbm
-
 https://arxiv.org/pdf/2210.10318.pdf
-
-I discussed the assignments for this semester in general with another student, Russell Todd, but I'm not sure if we talked about this exercise in specific detail. 
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 https://scikit-learn.org/stable/modules/classes.html
 https://scikit-learn.org/stable/index.html
