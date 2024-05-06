@@ -46,7 +46,11 @@ Github action to automatically run the code and generate the report!
 
 I discussed the assignments for this semester in general with another student, Russell Todd, and looked at his repository for the exercise.
 
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://stackoverflow.com/questions/59813807/understanding-invalid-decimal-literal
+https://www.askpython.com/python/built-in-methods/format-2-decimal-places
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
 https://scikit-learn.org/stable/modules/cross_validation.html#multimetric-cross-validation
 https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html
