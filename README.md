@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11789042&assignment_repo_type=AssignmentRepo)
 # ML Algorithm Selection
 
 For this exercise, we will have a look at the simplest version of Automated
@@ -17,9 +18,6 @@ excluding appendices. It should have the following structure:
 - Experimental Setup: What specifically are you doing to solve the problem, i.e. what programming languages and libraries, how are you processing the data, what machine learning algorithms are you considering, how are you evaluating them, etc.
 - Results: Description of what you observed, including plots.
 - Code: Add the code you've used as a separate file.
-
-Your report must contain enough detail to reproduce what you did without the
-code. If in doubt, include more detail.
 
 There is no required format for the report. You could, for example, use an
 iPython notebook.
@@ -43,3 +41,48 @@ overfitting. You could use statistical tests to make this determination.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+## Resources
+
+I discussed the assignments for this semester in general with another student, Russell Todd, and looked at his repository for the exercise.
+https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html#sphx-glr-auto-examples-text-plot-document-classification-20newsgroups-py
+https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://stackoverflow.com/questions/59813807/understanding-invalid-decimal-literal
+https://www.askpython.com/python/built-in-methods/format-2-decimal-places
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
+https://scikit-learn.org/stable/modules/cross_validation.html#multimetric-cross-validation
+https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html#sklearn.model_selection.cross_val_score
+https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+https://towardsdatascience.com/the-complete-guide-to-resampling-methods-and-regularization-in-python-5037f4f8ae23
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.BernoulliRBM.html#sklearn.neural_network.BernoulliRBM
+https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html#rbm
+https://arxiv.org/pdf/2210.10318.pdf
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://scikit-learn.org/stable/modules/classes.html
+https://scikit-learn.org/stable/index.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+https://scikit-learn.org/stable/model_selection.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
+https://scikit-learn.org/stable/modules/cross_validation.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn.model_selection.cross_validate
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html#sklearn.model_selection.cross_val_score
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn.model_selection.cross_validate
+https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html#sklearn.metrics.balanced_accuracy_score
+https://www.w3schools.com/python/python_lists_add.asp
+https://stackoverflow.com/questions/48896660/python-error-list-has-no-attribute-mean
+https://stackoverflow.com/questions/11530799/python-finding-index-of-maximum-in-list
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html#sklearn.metrics.balanced_accuracy_score
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
+https://scikit-learn.org/stable/modules/cross_validation.html
+https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifier.html#sklearn.linear_model.RidgeClassifier
+
+
+
+
