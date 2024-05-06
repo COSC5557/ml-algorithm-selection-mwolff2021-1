@@ -45,7 +45,8 @@ Github action to automatically run the code and generate the report!
 ## Resources
 
 I discussed the assignments for this semester in general with another student, Russell Todd, and looked at his repository for the exercise.
-
+https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html#sphx-glr-auto-examples-text-plot-document-classification-20newsgroups-py
+https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 https://stackoverflow.com/questions/59813807/understanding-invalid-decimal-literal
 https://www.askpython.com/python/built-in-methods/format-2-decimal-places
